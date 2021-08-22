@@ -1,0 +1,4 @@
+
+rootProject.name = "Basic Features"
+include ':app'
+include ':Basic Features'
